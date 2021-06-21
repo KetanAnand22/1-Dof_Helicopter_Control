@@ -1,1 +1,1 @@
-# 1-Dof_Helicopter_Control
+# 1-Dof_Copter_Control
